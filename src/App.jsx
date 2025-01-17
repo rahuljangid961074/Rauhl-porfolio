@@ -58,33 +58,33 @@ function App() {
 
 
               <div className='flex flex-wrap h-fit w-fit flex-col  text-slate-200 rounded-xl bg-white justify-center items-center p-2 font-bold'>
-                <img src="../public/download (5).png" alt="" className='h-40 w-40' />
+                <img src="/download (5).png" alt="" className='h-40 w-40' />
                 <p className='bg-slate-800 p-1 rounded-lg w-full'>The standard language for structuring web pages</p>
               </div>
 
               <div className='flex flex-wrap h-fit w-fit flex-col  text-slate-200 rounded-xl bg-white  justify-center items-center p-2 font-bold'>
-                <img src="../public/download (1).png" alt="" className='h-40 ' />
+                <img src="/download (1).png" alt="" className='h-40 ' />
                 <p className='bg-slate-800 p-1 rounded-lg w-full'>Used to style and design web pages beautifully</p>
               </div>
 
               <div className='flex flex-wrap h-fit w-fit flex-col  text-slate-200 rounded-xl bg-white  justify-center items-center p-2 font-bold'>
-                <img src="../public/download (2).png" alt="" className='h-40 ' />
+                <img src="/download (2).png" alt="" className='h-40 ' />
                 <p className='bg-slate-800 p-1 rounded-lg w-full'>The scripting language that powers dynamic web pages</p>
               </div>
 
               <div className='flex flex-wrap h-fit w-fit flex-col  text-slate-200 rounded-xl md:bg-white bg-slate-900  justify-center items-center p-2 font-bold'>
-                <img src="../public/download (3).png" alt="" className='h-40 ' /><br />
+                <img src="/download (3).png" alt="" className='h-40 ' /><br />
                 <p className='bg-slate-800 p-1 rounded-lg w-full'>A JavaScript library for building modern UI components</p>
               </div>
 
               <div className='flex flex-wrap h-fit w-fit flex-col  text-slate-200 rounded-xl md:bg-white bg-slate-900  justify-center items-center p-2 font-bold '>
-                <img src="../public/download (4).png" alt="" className='h-40 ' /><br />
+                <img src="/download (4).png" alt="" className='h-40 ' /><br />
                 <p className='bg-slate-800 p-1 rounded-lg w-full'> An CSS library which is  Used to style and design web pages beautifully</p>
               </div>
 
 
               <div className='flex flex-wrap h-fit w-fit flex-col  text-slate-200 rounded-xl md:bg-white bg-slate-900  justify-center items-center p-2 font-bold '>
-                <img src="../public/download (6).png" alt="" className='h-40 ' /><br />
+                <img src="/download (6).png" alt="" className='h-40 ' /><br />
                 <p className='bg-slate-800 p-1 rounded-lg w-full'>Tools to express your creativity in 3D,3D opens a new door for creativity</p>
               </div>
 
@@ -99,7 +99,7 @@ function App() {
 
             <figure className="md:flex bg-slate-900 rounded-xl p-8 md:p-0 dark:bg-slate-800">
               <img className="w-80 h-80 md:w-96 md:h-auto md:rounded-none rounded-full mx-auto md:rounded-tr-full md:rounded-br-full"
-                src="../public/459419964_879620440276900_339593325241548509_n_18017631893610623.jpg" alt="" width="384" height="512" />
+                src="/459419964_879620440276900_339593325241548509_n_18017631893610623.jpg" alt="" width="384" height="512" />
               <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
                 <blockquote>
                   <p className="text-lg font-medium">
